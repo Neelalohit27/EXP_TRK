@@ -13,7 +13,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <Link to="/" className="navbar-brand">
+        <Link to="/dashboard" className="navbar-brand">
           Expense Tracker
         </Link>
         <div className="navbar-links">
